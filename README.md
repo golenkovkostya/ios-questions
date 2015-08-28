@@ -78,6 +78,10 @@ ios questions
 
 [38. Папки Documents и Cache. Подводные камни?]()
 
-[39. ]()
+[39. po vs. print (lldb)?]()
 
-[40. ]()
+[40. expression (lldb)?]()
+
+[41. thread return (lldb)?]()
+
+[42. watchpoint]
